@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamali-27/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [3232-find-if-digit-game-can-be-won](https://github.com/kamali-27/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+## Math
+|  |
+| ------- |
+| [3232-find-if-digit-game-can-be-won](https://github.com/kamali-27/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 <!---LeetCode Topics End-->
