@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/kamali-27/leetcode/tree/master/0657-robot-return-to-origin) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/kamali-27/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
