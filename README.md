@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamali-27/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/kamali-27/leetcode/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamali-27/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/kamali-27/leetcode/tree/master/0012-integer-to-roman) |
 | [0657-robot-return-to-origin](https://github.com/kamali-27/leetcode/tree/master/0657-robot-return-to-origin) |
 ## Sliding Window
 |  |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kamali-27/leetcode/tree/master/0012-integer-to-roman) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kamali-27/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kamali-27/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
