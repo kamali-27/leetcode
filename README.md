@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kamali-27/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kamali-27/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kamali-27/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Math
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/kamali-27/leetcode/tree/master/0176-second-highest-salary) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kamali-27/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
