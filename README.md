@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/kamali-27/leetcode/tree/master/0012-integer-to-roman) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kamali-27/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0507-perfect-number](https://github.com/kamali-27/leetcode/tree/master/0507-perfect-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kamali-27/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
