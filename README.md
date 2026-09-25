@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kamali-27/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/kamali-27/leetcode/tree/master/0053-maximum-subarray) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kamali-27/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kamali-27/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Math
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kamali-27/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kamali-27/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kamali-27/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
